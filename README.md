@@ -69,14 +69,14 @@ jupyter notebook RAG_implementation_from_scratch.ipynb
 
 ---
 
-## 🧩 Dependencies
+## 🙏 Acknowledgment
 
-- Python ≥ 3.8
-- `requests`
-- `json`, `math`, `collections`
-- LLaMA2 via Ollama (`http://localhost:11434`)
+This implementation is inspired by tutorials from **Sunny Savita's YouTube channel**:
 
----
+- [RAG Part 1](https://youtu.be/wTVTkOb3SZc?si=EWxVTxFSNqnoCK9N)
+- [RAG Part 2](https://youtu.be/KyCtfQjkuR4?si=99FKEdNgDPiyxZ2W)
+- [RAG Part 3](https://youtu.be/7k7tfxO4Zpw?si=XeMXH1UwToOIoClo)
+
 
 ## 📬 Contact
 
